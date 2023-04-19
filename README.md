@@ -1,9 +1,13 @@
 # EDmodel
-Encoder-Decoder model for chemical structures.
+Investigation of chemical structure recognition by encoder-decoder models in learning progress.  
 
 ## Publication
-- [preprint](https://arxiv.org/abs/2210.16307)  
 - [peer-reviewed publication](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00713-z)  
+- [preprint](https://arxiv.org/abs/2210.16307)  
+
+## Citation
+Please cite the following if you use any contents of this repository.  
+- DOI: 10.1186/s13321-023-00713-z  
 
 ## Authors
 - [Shumpei Nemoto](https://github.com/Nemoto-S)  
