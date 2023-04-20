@@ -28,7 +28,7 @@ Please clone this repository locally and use it.
 import sys
 sys.path.append("EDmodel")
 from src.trainer import Generator
-from src.model import Config
+from src.models import Config
 
 gen = Generator()
 gen.load(Config(),"models/model_94.pth")
